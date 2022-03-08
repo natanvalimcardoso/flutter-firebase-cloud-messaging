@@ -1,4 +1,4 @@
-# flutter_firebase_cloud
+# petize_alura
 
 A new Flutter project.
 
